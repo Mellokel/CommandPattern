@@ -1,0 +1,9 @@
+c:\users\me\documents\visual studio 2015\Projects\command\command\bin\Debug\command.exe.config
+C:\Users\Me\documents\visual studio 2015\Projects\command\command\bin\Debug\command.exe
+C:\Users\Me\documents\visual studio 2015\Projects\command\command\bin\Debug\command.pdb
+C:\Users\Me\documents\visual studio 2015\Projects\command\command\obj\Debug\command.Form1.resources
+C:\Users\Me\documents\visual studio 2015\Projects\command\command\obj\Debug\command.Properties.Resources.resources
+C:\Users\Me\documents\visual studio 2015\Projects\command\command\obj\Debug\command.csproj.GenerateResource.Cache
+C:\Users\Me\documents\visual studio 2015\Projects\command\command\obj\Debug\command.exe
+C:\Users\Me\documents\visual studio 2015\Projects\command\command\obj\Debug\command.pdb
+C:\Users\Me\documents\visual studio 2015\Projects\command\command\obj\Debug\command.csprojResolveAssemblyReference.cache
