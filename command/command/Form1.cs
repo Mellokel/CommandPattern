@@ -126,18 +126,7 @@ namespace command
         }
     }
 
-    class Reciever {
-        Form1 a;
-
-        public Reciever(Form1 a)
-        {
-
-
-        }
-
-
-    }
-
+  
 
     interface ICommand
     {
